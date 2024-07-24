@@ -1,0 +1,20 @@
+.work-img
+{
+    text-align: center !important;
+}
+
+.work-img img
+{
+    /* height: 180px !important; */
+}
+
+.author-test img
+{
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.card-img img
+{
+    width: 100% !important;
+}
